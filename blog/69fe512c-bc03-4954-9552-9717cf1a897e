@@ -1,0 +1,14 @@
+{
+  "id": "69fe512c-bc03-4954-9552-9717cf1a897e",
+  "title": "string",
+  "image": "https://yt3.ggpht.com/tEV-Kf_grH08OsPJuQvBVBQCBstwmTzdM2TwYEgKkt3WjnEbgb1QcnFtRL7QoehtqaEQLamzrg=s48-c-k-c0x00ffffff-no-rj",
+  "description": "string",
+  "body": "string",
+  "tags": [
+    {
+      "name": "string"
+    }
+  ],
+  "published": false,
+  "creationDate": "2021-08-28T00:00:00+00:00"
+}
